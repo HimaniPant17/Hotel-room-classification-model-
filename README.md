@@ -1,5 +1,5 @@
 # Hotel-room-classification-model-
-Developed a classification model using machine learning algorithms suggesting the room type depending on various factors like price, amenities – bathroom, tv, garden, bed type etc.
+Developed a classification model using machine learning algorithms suggesting the room type depending on various factors like price, amenities – bathroom, tv, garden, bed type etc., utilized Power BI for visualization of data and deployed the model on AWS sagemaker.
 
 About our dataset:
 Data was scraped from Booking.com website, which is an online booking platform that mediates between hotels, guesthouses, vacation rentals and their guests. Hotels and hosts offer their accommodation through the website and mobile apps. Travelers can use the search function to set what they are looking for and book directly. 
